@@ -1,0 +1,2 @@
+cartographer_mapping
+-DCATKIN_DEVEL_PREFIX=/home/aitian/mapsaver/devel -DCMAKE_INSTALL_PREFIX=/home/aitian/mapsaver/install -G Unix Makefiles

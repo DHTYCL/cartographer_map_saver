@@ -1,0 +1,8 @@
+prefix=/home/aitian/mapsaver/install
+
+Name: avidbots_cartographer_mapping
+Description: Description of avidbots_cartographer_mapping
+Version: 0.0.0
+Cflags: -I/home/aitian/mapsaver/install/include
+Libs: -L/home/aitian/mapsaver/install/lib 
+Requires: roscpp nav_msgs
